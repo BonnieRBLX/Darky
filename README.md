@@ -1,5 +1,6 @@
 # Darky
 A Simple Discord Bot Spammer.
 Author: BonnieRBLX
-## Requirements
+# Requirements
 Windows 7 or higher
+# 🔑 Password: darky
